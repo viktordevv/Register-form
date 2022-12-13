@@ -1,1 +1,1 @@
-# Personal proyect for practice Html,CSS and PHP
+# Personal proyect for practice Html, CSS and PHP.
